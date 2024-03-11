@@ -1,3 +1,4 @@
 notebooks/.ipynb_checkpoints/
 RaspberryPi0_template/build_GCC/
 RaspberryPi0_template/build_MSVC/
+.vscode/
