@@ -1,7 +1,6 @@
-# What a *** is this !!!!!  
+# RA [11-03-2024]: What a *** is this !!!!!  
 
-RA [11-03-2024]:
-What am I doing for the past few hours. Just like wasting so much time I think so. But that fine.
+What am I doing for the past few hours. Just like wasting so much time I think so. But thats fine.
 Just want to cross compile a hello world program into raspberry pi 4 or 0.
 
     >> lscpu
@@ -35,14 +34,14 @@ Just want to cross compile a hello world program into raspberry pi 4 or 0.
     Vulnerability Srbds: Not affected
     Vulnerability Tsx async abort: Not affected
     Flags: fp asimd evtstrm crc32 cpuid
-First I faced an issue. I cross compiled with the gcc mingw compiler and I'm not able to run it on the RPi4. Then I resolved. I forgot how I resolved it. Let me think again update here. 
+The first issue which I faced is when I cross compiled with the gcc mingw compiler and I'm not able to run it on the RPi4. Then I resolved. I forgot how I resolved it. Let me think again update here. 
 Then I came to know about the toolchain. It's a kind of bull**. I already done a set up with the MSVC compiler but I hated that, it can be used only for the windows.
 
 > Frustrated..... dot dot dot...
 
 ![enter image description here](https://fcit.usf.edu/matrix/wp-content/uploads/2016/09/50012-700.png)
 
-Nothing.... Its literally nothing. even after spending so much of time. And watched some scenes of 'Seventh continent' movie by Michel Heneke. Thinking of existential crisis. Not due to this. Being a Nihilist, thinking so is a common. 
+Nothing.... Its literally nothing. even after spending so much of time. And watched some scenes of 'Seventh continent' movie by Michel Heneke. Thinking of existential crisis. Not due to this. Being a Nihilist, thinking like that is so common. 
 Just leave those CMake stuffs. I don't want to complicate things now. run,
 
     g++ helloworld.cpp
@@ -62,7 +61,7 @@ You know what is this? **arm-linux-gnueabihf** is the toolchain need to be used 
 
 https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads
 
-From here, I downloaded the toolchain, Build it, yes!!!, Now the .ot file is generated.
+From here, I downloaded the toolchain, Build it, yes!!!, Now the .out file is generated.
 
     root@raspberrypi:/home/revanth/helloworld# ./helloworld.out
     ./helloworld.out: /lib/arm-linux-gnueabihf/libc.so.6: version `GLIBC_2.34' not found (required by ./helloworld.out)
@@ -97,4 +96,16 @@ What is this? The next fu** error (I mean functional error.... eeeeeeeeee).
 
 *I DONT WANT TO PLAY WITH THIS BLUE WHALE NOW !!!*
 
-Need some hack da..... Searching Searching..... Tata bye bye. Good night.... 
+Need some hack for the day..... Searching Searching..... Tata bye bye. Good night.... 
+
+# RA[12-03-2024]: Just a peaceful living being... 
+
+The is a new day. Lets start from first.... 😎
+
+Feeling demotivated of my README.md?
+
+Stop searching motivation everyday and everything. It's okay to be express frustration. So that we can focus on what we want by keeping our mind free.
+
+Let try to find a solution today for this. 
+
+![enter image description here](https://grace-being.com/wp-content/uploads/2021/11/Suffering-Buddha-quotes11-min-1024x577.jpg)
